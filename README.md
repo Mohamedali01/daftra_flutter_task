@@ -7,6 +7,7 @@
 
 # Versions
 - Flutter: 3.32.5
+- Dart: 3.8.1
 
 
 
