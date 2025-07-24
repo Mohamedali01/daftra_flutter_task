@@ -5,8 +5,8 @@ import 'package:daftra_flutter_task/src/catalog/item.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:bloc_test/bloc_test.dart';
 
-final item1 = Item(id: '1', name: 'Coffee', price: 10);
-final item2 = Item(id: '2', name: 'Tea', price: 5);
+final item1 = Item(id: 'p01', name: 'Coffee', price: 10);
+final item2 = Item(id: 'p02', name: 'Tea', price: 5);
 
 void main() {
   group('Cart Bloc Test', () {
