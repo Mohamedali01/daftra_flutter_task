@@ -1,4 +1,4 @@
-What done:
+# What done:
 - CatalogBloc from catalog.json
 - CartBloc (add, remove, change qty, discount, clear)
 - 15% VAT, per-line discount, grand total calculation
